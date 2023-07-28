@@ -1,0 +1,8 @@
+# Project exclude paths
+/out/
+/SpringMVC-1-Servlet/target/
+/SpringMVC-2-hello/target/
+/Springmvc-3-annotation/target/
+/SpringMVC-4-RestFul/target/
+/SpringMVC-5-SSM/target/
+/SpringMVC-6-Interceptor_file/target/

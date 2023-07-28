@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringMVC-1-Servlet" />
+        <module name="SpringMVC-6-Interceptor_file" />
+        <module name="SpringMVC-2-hello" />
+        <module name="SpringMVC-5-SSM" />
+        <module name="Springmvc-3-annotation" />
+        <module name="SpringMVC-4-RestFul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring-6-SSM" target="18" />
+      <module name="SpringMVC-6-SSM" target="18" />
+      <module name="untitled" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
